@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Exercise number 6
+# 2021
 ''' Create a program that asks the user how far they want to travel. If they want to travel less than
 three miles tell them to walk. If they want to travel more than three miles, but less than three
 hundred miles, tell them to drive. If they want to travel three hundred miles or more tell them to
